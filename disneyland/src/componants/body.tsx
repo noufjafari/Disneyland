@@ -4,10 +4,8 @@ import imag2 from '../assets/hd16242_2050dec31_world_avengers-campus-key-visual_
 import imag3 from '../assets/n015567c_2027sep30_world_hotel-new-york-the-art-of-marvel-exterior_16-9_tcm1861-256421$w~960$p~1$f~jpg.jpg';
 import img4 from '../assets/imgScROL1.jpg';
 import img5 from '../assets/imgScROL2.jpg';
-import img6 from '../assets/';
-import img7 from '../assets/';
-import img8 from '../assets/imgScROL5.png';
-import img9 from '../assets/';
+import img6 from '../assets/imgScROL3.png';
+import img7 from '../assets/imgScROL4.png';
 
 
 function body() {
@@ -30,26 +28,20 @@ function body() {
             </div>
 
           <div className=" flex flex-row justify-center gap-5">
-          <div className="w-96 ">
+          <div className=" ">
             <img src={img4} />
           </div>
-          <div className="w-96">
+          <div className="">
             <img src={img5} />
-          </div>
-          <div className="w-96 h-60">
-            <img src={img6} />
           </div>
           </div>
 
           <div className=" flex flex-row justify-center gap-5">
-          <div className="w-96">
+          <div className="">
+            <img src={img6} />
+          </div>
+          <div className="">
             <img src={img7} />
-          </div>
-          <div className="w-96">
-            <img src={img8} />
-          </div>
-          <div className="w-96">
-            <img src={img9} />
           </div>
           </div>
         </div>
