@@ -6,7 +6,7 @@ function App() {
 
   return (
     <> 
-    <div className=" bg-slate-900 text-slate-100 h-screen ">
+    <div className=" bg-slate-900 text-slate-100 h-fit ">
 
     <Header/>
     <Body/>

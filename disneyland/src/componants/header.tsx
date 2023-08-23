@@ -8,6 +8,7 @@ function header() {
 <div className="">
 <Nav/>
     <video className='w-screen opacity-75 ' src={videobg} autoPlay loop muted></video>
+
 </div>
     </>
   )
